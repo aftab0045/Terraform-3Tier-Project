@@ -226,3 +226,14 @@ To avoid unnecessary AWS charges, all resources created using Terraform were pro
 ```bash
 terraform destroy
 ```
+![](./img/Screenshot%202026-03-19%20151027.png)
+
+- This command deletes all the infrastructure created by Terraform
+
+- Ensures no unused resources continue running in AWS
+
+## Conclusion
+
+This project demonstrates how to deploy a secure and scalable 3-tier architecture on AWS using Terraform. It highlights key concepts like Infrastructure as Code, network isolation, and secure communication between layers.
+
+Overall, this project provides hands-on experience with real-world cloud architecture and is useful for DevOps learning and interviews.
